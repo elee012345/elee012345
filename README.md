@@ -5,10 +5,10 @@ I'm a high school junior who likes coding.
 
 <details>
 <summary>I'm the programming/electrical lead for a robotics team (VorTX 3735)...</summary>
-
-wowow fancy ascii art
-  
 ```console
+  
+wowow fancy ascii art
+
 ....................................................................................................
 ....................................................................................................
 .'loooooddodo:....'lddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddc.
