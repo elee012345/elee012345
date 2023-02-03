@@ -1,19 +1,38 @@
 # Hi! 👋 I'm Ethan.
-I'm a high school junior who likes to program!
+I'm a high school junior who loves programming!
 
-![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=elee012345&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elee012345&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary><b><i>Let me introduce myself!</i></b></summary>
 
-(from the [GitHub README stats repo](https://github.com/anuraghazra/github-readme-stats))
 
 ```py
-class Nerd(self):
-  self.name = "Ethan"
-  self.interests = ["programming", "robotics", "cybersecurity", "computer engineering"]
-  self.hobbies = ["guitar", "minecraft", "reading"]
-  self.age = 16
+# I sure hope you can read python
+# I'll end up looking like an idiot if you don't
+class Nerd():
+    def __init__(self, name, age, interests, hobbies):
+        self.name = name
+        self.age = age
+        self.interests = interests
+        self.hobbies = hobbies
+    
+    def hellothere(self):
+        print("Hi! I'm " + str(self.name) + ". Nice to meet you!")
+
+
+name = "Ethan"
+age = 16
+interests = ["programming", "robotics", "cybersecurity", "computer engineering"]
+hobbies = ["guitar", "minecraft", "reading"]
+Ethan = Nerd(name, age, interests, hobbies)
+Ethan.hellothere()
 ```
+<img alt="picture" src="https://github.com/elee012345/elee012345/blob/main/images/wow%20so%20fancy.png">
+
+<details>
+<summary>Other cool intro stuff that didn't make it</summary>
+
+
 ```cmd
 
 C:\Users\ethan\Documents\coding stuff>dir
@@ -52,6 +71,9 @@ public class Nerd {
   }
 }
 ```
+</details>
+</details>
+
 
 
 
@@ -122,11 +144,26 @@ wowow fancy team logo ascii art
 </details>
 
 
+<details>
+<summary>But mostly I like to code up all of my random ideas and make cools things out of them!</summary>
 
-But mostly I like to code up all of my random ideas and make cools things out of them. A fun project was my LSB image steganography script I made a while back.
-
+This is a fun project on LSB image steganography that I made a while back. I learned some simple encryption making it!
 [![LSB Encrypted Image Stego](https://github-readme-stats.vercel.app/api/pin/?username=elee012345&repo=image-steganography&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
 
+<details>
+<summary>I also just like anything to do with technology in general, like...</summary>
+Learning cybersecurity on TryHackMe and PicoCTF, or modern cryptography on CryptoHack! Or even computational redstone, where I can build computers in Minecraft! (computers are made out of logic gates, you can build logic gates in Minecraft, so... why not?)
+</details>
 
+### Anyway, here are some of my GitHub stats
+
+![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=elee012345&show_icons=true&theme=tokyonight&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elee012345&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+from the [GitHub README stats repo](https://github.com/anuraghazra/github-readme-stats), doesn't include contributions to organizations >:(
+
+![Profile Views](https://komarev.com/ghpvc/?username=elee012345&color=grey)
 
