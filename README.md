@@ -1,3 +1,6 @@
+this is a WIP btw
+
+
 # Hi! 👋 I'm Ethan.
 I'm a high school junior who loves programming!
 
