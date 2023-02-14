@@ -140,9 +140,9 @@ wowow fancy team logo ascii art
 
 <details>
   <summary>And I'm in a vex robotics team...</summary>
-  auton explanation... I'm good at explaning things I swear
+  robot can play disc golf
   <picture>
-    <img alt="i'm good at explaning" src="https://raw.githubusercontent.com/elee012345/vex-spin-up/main/auton%20testing/explanation.png">
+    <img alt="very cool shooter" src="https://raw.githubusercontent.com/elee012345/elee012345/main/images/vex%20robot.png">
   </picture>
 </details>
 
