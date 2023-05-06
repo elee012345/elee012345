@@ -163,7 +163,8 @@ Learning cybersecurity on TryHackMe and PicoCTF, or modern cryptography on Crypt
 ### Anyway, here are some of my GitHub stats
 
 ![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=elee012345&show_icons=true&theme=tokyonight&count_private=true)
-
+idk why it says I use so much html; I mostly use python
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elee012345&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 from the [GitHub README stats repo](https://github.com/anuraghazra/github-readme-stats), doesn't include contributions to organizations >:(
